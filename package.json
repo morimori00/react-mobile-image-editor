@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chenmoonmo/react-mobile-image-editor"
+    "url": "git+https://github.com/morimori00/react-mobile-image-editor"
   },
   "main": "./lib/react-mobile-image-editor.umd.cjs",
   "module": "./lib/react-mobile-image-editor.js",
